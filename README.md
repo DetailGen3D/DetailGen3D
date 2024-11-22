@@ -1,1 +1,1 @@
-# sweetdreamer3d.github.io
+# detailgen3d.github.io
